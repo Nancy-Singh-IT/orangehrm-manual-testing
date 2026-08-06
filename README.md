@@ -1,0 +1,129 @@
+# OrangeHRM Manual Testing Project
+
+## 📌 Project Overview
+
+This repository contains a complete **Manual Testing Project** performed on the **OrangeHRM Demo Application**.
+
+The project includes industry-standard QA documentation such as:
+
+- Test Plan
+- Test Scenarios
+- Test Cases
+- Requirement Traceability Matrix (RTM)
+- Bug Report
+- Test Summary Report
+
+---
+
+## 🎯 Objectives
+
+The objective of this project is to validate the functionality of the OrangeHRM Login module through manual testing.
+
+Testing includes:
+
+- Login Validation
+- Logout Functionality
+- Forgot Password
+- Field Validation
+- Password Masking
+- UI Verification
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel
+- Microsoft Word
+- Google Chrome
+- GitHub
+
+---
+
+## 📂 Project Structure
+
+```text
+orangehrm-manual-testing/
+│
+├── README.md
+├── Test Plan.docx
+├── Test Summary Report.docx
+├── Test Scenarios.xlsx
+├── Test Cases.xlsx
+├── Requirement Traceability Matrix.xlsx
+├── Bug Report.xlsx
+└── Screenshots/
+```
+
+---
+
+## 📋 Documents
+
+| Document | Status |
+|----------|--------|
+| Test Plan | ✅ Completed |
+| Test Scenarios | ✅ Completed |
+| Test Cases | ✅ Completed |
+| Requirement Traceability Matrix | ✅ Completed |
+| Bug Report | ✅ Completed |
+| Test Summary Report | ✅ Completed |
+
+---
+
+## 📸 Screenshots
+
+### Login Page
+
+![Login](Screenshots/Login%20Page.png)
+
+### Dashboard
+
+![Dashboard](Screenshots/Dashboard.png)
+
+### Admin Module
+
+![Admin](Screenshots/Admin.png)
+
+### PIM Module
+
+![PIM](Screenshots/PIM.png)
+
+### Leave Module
+
+![Leave](Screenshots/Leave.png)
+
+### Claim Module
+
+![Claim](Screenshots/Claim.png)
+
+### Buzz Module
+
+![Buzz](Screenshots/Buzz.png)
+
+---
+
+## 📊 Test Execution Summary
+
+| Metric | Count |
+|---------|------:|
+| Test Scenarios | 10 |
+| Test Cases | 10 |
+| Passed | 10 |
+| Failed | 0 |
+
+---
+
+## ✅ Result
+
+All planned test cases were executed successfully.
+
+No functional defects were identified during testing of the Login module.
+
+---
+
+## 👩‍💻 Author
+
+**Nancy Priya Singh**
+
+BSc (Hons) Computing System Engineering
+
+ISMT College
