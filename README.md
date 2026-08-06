@@ -75,31 +75,31 @@ orangehrm-manual-testing/
 
 ### Login Page
 
-![Login Page](Screenshots/login-page.png)
+![Login Page](Screenshots/login-page.png.png)
 
 ### Dashboard
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png.png)
 
 ### Admin Module
 
-![Admin Module](Screenshots/admin-module.png)
+![Admin Module](Screenshots/admin-module.png.png)
 
 ### PIM Module
 
-![PIM Module](Screenshots/pim-module.png)
+![PIM Module](Screenshots/pim-module.png.png)
 
 ### Leave Module
 
-![Leave Module](Screenshots/leave-module.png)
+![Leave Module](Screenshots/leave-module.png.png)
 
 ### Claim Module
 
-![Claim Module](Screenshots/claim-module.png)
+![Claim Module](Screenshots/claim-module.png.png)
 
 ### Buzz Module
 
-![Buzz Module](Screenshots/buzz-module.png)
+![Buzz Module](Screenshots/buzz-module.png.png)
 
 ---
 
