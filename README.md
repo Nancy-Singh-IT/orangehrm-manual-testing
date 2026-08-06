@@ -1,5 +1,7 @@
 # OrangeHRM Manual Testing Project
 
+A complete Manual Testing project for the OrangeHRM Demo Application using industry-standard QA documentation.
+
 ## 📌 Project Overview
 
 This repository contains a complete **Manual Testing Project** performed on the **OrangeHRM Demo Application**.
@@ -111,7 +113,20 @@ orangehrm-manual-testing/
 | Failed | 0 |
 
 ---
-
+## Skills Demonstrated
+- Manual Testing
+- Functional Testing
+- UI Testing
+- Positive Testing
+- Negative Testing
+- Test Planning
+- Test Case Design
+- Requirement Traceability Matrix (RTM)
+- Bug Reporting
+- Test Documentation
+  
+ ---
+ 
 ## ✅ Result
 
 All planned test cases were executed successfully.
